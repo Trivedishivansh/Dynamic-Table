@@ -45,7 +45,7 @@ CSS (inline styling)
 
 Clone the repository
 
-git clone https://github.com/trivedishivansh/dynamic-crud-table.git
+https://github.com/Trivedishivansh/Dynamic-Table.git
 
 cd dynamic-crud-table
 
